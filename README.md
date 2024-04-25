@@ -39,6 +39,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -56,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 </div>
 
 ###
