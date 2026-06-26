@@ -1,67 +1,77 @@
-<h1 align="center">Hey 👋I'm Rustam</h1>
+<h1 data-importer="text" align="left">Hallo, ich heiße Rustam!<br>Hello, I'am Rustam!</h1>
 
 ###
 
-<h3 align="left">Software & System Engineer.<br>Based in 01069 Dresden, Germany</h3>
+<h3 data-importer="text" align="left">DevOps x Cloud Engineer</h3>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cmake" height="60" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="58" alt="terraform logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="58" alt="ansible logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="58" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=linux" height="58" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="58" alt="githubactions logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="58" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=aws" height="58" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="58" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="58" alt="kubernetes logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="58" alt="amazondynamodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="58" alt="gitlab logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="58" alt="prometheus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="58" alt="grafana logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="58" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="58" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="58" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="58" alt="powershell logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="58" alt="intellij logo"  />
 </div>
 
 ###
 
-<h3 align="left">I can speak:</h3>
+<h3 data-importer="text" align="left">I can speak:</h3>
 
 ###
 
-<p align="left">— English (B1)<br>— Germany (A1)<br>— Russian (C2)<br>— Ukrainian (C2)<br>— Polish (A2)</p>
+<h5 data-importer="text" align="left">— English (B1)<br>— German (A1)<br>— Russian (C2)<br>— Ukrainian (C2)</h5>
 
 ###
 
-<h3 align="center">Contact me:</h3>
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brucewayne1ua/brucewayne1ua/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brucewayne1ua/brucewayne1ua/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brucewayne1ua/brucewayne1ua/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<h3 data-importer="text" align="center">Contact me:</h3>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/rustam-ohly/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="adamsonrustam@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
