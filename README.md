@@ -54,13 +54,9 @@
 
 ###
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brucewayne1ua/brucewayne1ua/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brucewayne1ua/brucewayne1ua/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brucewayne1ua/brucewayne1ua/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="251" src="https://i.pinimg.com/1200x/72/b4/e3/72b4e3723b5c7d606310d4e910b0065f.jpg"  />
+</div>
 
 ###
 
