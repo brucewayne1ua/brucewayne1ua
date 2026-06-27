@@ -54,12 +54,6 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="251" src="https://i.pinimg.com/1200x/72/b4/e3/72b4e3723b5c7d606310d4e910b0065f.jpg"  />
-</div>
-
-###
-
 <h3 data-importer="text" align="center">Contact me:</h3>
 
 ###
@@ -74,6 +68,12 @@
   <a href="https://linktr.ee/rustamohly" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/736x/75/2b/16/752b16c0d0dc21b69cc20dc77e0385f9.jpg"  />
 </div>
 
 ###
